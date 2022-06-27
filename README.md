@@ -1,10 +1,15 @@
-### Hi there 👋
+# sobre mim
+- Olá, eu sou a Jenyfer;
+- Estou interessada em cursos;
+- Atualmente, estou aprendendo SCRATH e JAVASCRIPt;
+- Estou disponivel para colaborar e ajudar meus colegas;
+- Instagram: @Jeny_pequenah  <3
 
 <!--
 **Jenypequena/jenypequena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
